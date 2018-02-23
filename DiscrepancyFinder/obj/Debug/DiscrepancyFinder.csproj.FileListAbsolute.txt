@@ -1,0 +1,7 @@
+C:\Users\Potte\OneDrive\Projects\DiscrepancyFinder\DiscrepancyFinder\DiscrepancyFinder\bin\Debug\DiscrepancyFinder.exe.config
+C:\Users\Potte\OneDrive\Projects\DiscrepancyFinder\DiscrepancyFinder\DiscrepancyFinder\bin\Debug\DiscrepancyFinder.exe
+C:\Users\Potte\OneDrive\Projects\DiscrepancyFinder\DiscrepancyFinder\DiscrepancyFinder\bin\Debug\DiscrepancyFinder.pdb
+C:\Users\Potte\OneDrive\Projects\DiscrepancyFinder\DiscrepancyFinder\DiscrepancyFinder\obj\Debug\DiscrepancyFinder.csprojResolveAssemblyReference.cache
+C:\Users\Potte\OneDrive\Projects\DiscrepancyFinder\DiscrepancyFinder\DiscrepancyFinder\obj\Debug\DiscrepancyFinder.csproj.CoreCompileInputs.cache
+C:\Users\Potte\OneDrive\Projects\DiscrepancyFinder\DiscrepancyFinder\DiscrepancyFinder\obj\Debug\DiscrepancyFinder.exe
+C:\Users\Potte\OneDrive\Projects\DiscrepancyFinder\DiscrepancyFinder\DiscrepancyFinder\obj\Debug\DiscrepancyFinder.pdb
